@@ -8,7 +8,7 @@ Math Builders is a web app for multiplication, division, addition, and subtracti
 
 <img src="assets/math-builders-guided-practice.png" alt="Math Builders practice screen shows 50 divided by 5 and explains the related fact, 5 times 10 equals 50, over a garden scene." width="680">
 
-*An actual app screen with sample data. A missed fact gets an answer and a connection to a related fact. The screenshots in this guide use sample learners; they are examples, not measured learning results.*
+*An actual app screen with sample data. A missed fact gets an answer and a connection to a related fact. The screenshots illustrate product features. The figures shown are examples, not claims about learning results.*
 
 ## What is a good way to memorize multiplication tables?
 
@@ -61,6 +61,34 @@ The fluency map shows progress by fact. Progress views also show practice histor
 *Each child has a separate learner profile. This example shows the parent controls for two sample learners. Free accounts include saved practice and basic stats. Premium adds detailed reports and personalised practice sheets.*
 
 Progress is most useful when viewed across several sessions. One good round does not prove lasting recall, and one difficult round does not erase earlier learning.
+
+### What does Premium show in the fluency map?
+
+Premium gives you the full fact-by-fact view. Switch between mastery, review timing, accuracy, and answer speed to see where practice can help. Select a fact to open its details.
+
+<img src="assets/math-builders-fluency-map.webp" alt="Premium multiplication fluency map with mastery, due, accuracy, and speed views, plus a detail panel for a selected fact." width="820">
+
+*The map brings individual facts together in one view. Colours show learning stages, and due markers identify facts ready for review.*
+
+<img src="assets/math-builders-fact-detail.png" alt="Detail for 12 divided by 6 equals 2: mastery level 6 of 16, review due now, six correct answers out of six, and an average answer time of 2.1 seconds." width="760">
+
+*Open a fact to see its last practice, next review, accuracy, average answer time, and correct answers in a row. Here, 12 ÷ 6 has six correct answers but is due for another review. Correct answers and regular review both matter.*
+
+### Which missed facts should we review next?
+
+Premium's full missed-fact report shows the facts that need attention, with views for this week and all time. Use the answer times and review dates to choose a focused follow-up.
+
+<img src="assets/math-builders-premium-missed-facts.webp" alt="Premium missed-fact report with This Week selected, showing individual division and multiplication facts, missed-answer counts, response times, and due-now labels." width="420">
+
+*See the actual facts behind a summary score, then choose what to explain or practise next.*
+
+### Can Premium make a worksheet from my child's practice?
+
+Yes. Premium includes personalised weak-fact worksheets with answer keys and Printables Lab. Use saved practice to choose work for one learner or several, then take the next activity onto paper.
+
+<img src="assets/math-builders-premium-worksheet.png" alt="Printables Lab worksheet asks the learner to build six equal rows of three apples and complete 6 times 3." width="680">
+
+*An example from Printables Lab. Visual questions give children space to connect an equation to equal groups. Printed answers do not automatically update app progress.*
 
 ## Can Math Builders fit into a classroom warm-up?
 

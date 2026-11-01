@@ -28,6 +28,16 @@ Look for accurate answers on different days and less need to count or reconstruc
 
 Math Builders provides fact-level progress and practice history. Use these as evidence for the next practice choice, alongside what you observe. A session score, forecast, or certificate does not guarantee a school result.
 
+### What can I see in the Premium progress reports?
+
+Premium adds full fluency map detail, all missed-fact detail, and expanded progress views. The dashboard brings pack mastery, practice totals, accuracy, and upcoming reviews together. These figures help you choose the next practice activity.
+
+<img src="../assets/math-builders-premium-progress.webp" alt="Math Builders progress dashboard showing pack mastery, total sessions, accuracy, facts mastered, and reviews due today and tomorrow." width="420">
+
+*An example progress dashboard. Read the summary alongside individual facts to understand where the learner needs help.*
+
+See the [Premium fluency map, fact details, missed-fact report, and worksheet examples](../README.md#what-does-premium-show-in-the-fluency-map).
+
 ## How long will it take to learn all the multiplication tables?
 
 There is no fixed time for every child. Prior knowledge, the facts being practised, and the practice routine all matter. Start with a manageable set and check what the child remembers on later days.
