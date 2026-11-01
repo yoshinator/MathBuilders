@@ -30,13 +30,13 @@ Math Builders provides fact-level progress and practice history. Use these as ev
 
 ### What can I see in the Premium progress reports?
 
-Premium adds full fluency map detail, all missed-fact detail, and expanded progress views. The dashboard brings pack mastery, practice totals, accuracy, and upcoming reviews together. These figures help you choose the next practice activity.
+Premium adds full progress map detail and expanded progress views. Use the map to inspect accuracy, answer speed, and review timing for each fact. The dashboard brings pack mastery, practice totals, accuracy, and upcoming reviews together. These figures help you choose the next practice activity.
 
 <img src="../assets/math-builders-premium-progress.webp" alt="Math Builders progress dashboard showing pack mastery, total sessions, accuracy, facts mastered, and reviews due today and tomorrow." width="420">
 
 *An example progress dashboard. Read the summary alongside individual facts to understand where the learner needs help.*
 
-See the [Premium fluency map, fact details, missed-fact report, and worksheet examples](../README.md#what-does-premium-show-in-the-fluency-map).
+See the [Premium progress map, fact details, and worksheet examples](../README.md#what-does-premium-show-in-the-fluency-map).
 
 ## How long will it take to learn all the multiplication tables?
 

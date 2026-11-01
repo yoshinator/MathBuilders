@@ -24,7 +24,7 @@ Parents see recent progress, facts ready for review, and a nearby goal for each 
 
 ### What does Premium show about individual facts?
 
-Premium includes full fluency map detail, all missed-fact detail, expanded progress views, and personalised worksheets with answer keys. A fact's detail view shows its mastery level, last practice, next review, accuracy, average answer time, and correct answers in a row. The product FAQ includes screenshots of these views and a Printables Lab worksheet.
+Premium includes full progress map detail, expanded progress views, and personalised worksheets with answer keys. Facts that need review are shown in the map, with accuracy, speed, and due views. A fact's detail view shows its mastery level, last practice, next review, accuracy, average answer time, and correct answers in a row. The product FAQ includes screenshots of these views and a Printables Lab worksheet.
 
 ### How much does Math Builders cost?
 

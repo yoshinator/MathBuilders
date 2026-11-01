@@ -70,17 +70,13 @@ Premium gives you the full fact-by-fact view. Switch between mastery, review tim
 
 *The map brings individual facts together in one view. Colours show learning stages, and due markers identify facts ready for review.*
 
-<img src="assets/math-builders-fact-detail.png" alt="Detail for 12 divided by 6 equals 2: mastery level 6 of 16, review due now, six correct answers out of six, and an average answer time of 2.1 seconds." width="760">
-
-*Open a fact to see its last practice, next review, accuracy, average answer time, and correct answers in a row. Here, 12 ÷ 6 has six correct answers but is due for another review. Correct answers and regular review both matter.*
-
 ### Which missed facts should we review next?
 
-Premium's full missed-fact report shows the facts that need attention, with views for this week and all time. Use the answer times and review dates to choose a focused follow-up.
+Use the progress map to find facts that need attention. Select **Accuracy** to see which facts need more correct practice, **Speed** to review answer times, or **Due** to see which facts are ready for review. Open a fact to inspect its practice details and choose a focused follow-up.
 
-<img src="assets/math-builders-premium-missed-facts.webp" alt="Premium missed-fact report with This Week selected, showing individual division and multiplication facts, missed-answer counts, response times, and due-now labels." width="420">
+<img src="assets/math-builders-fact-detail.png" alt="Fact detail in the progress map for 12 divided by 6 equals 2, showing its last practice, review due now, mastery level, accuracy, average answer time, and correct answers in a row." width="760">
 
-*See the actual facts behind a summary score, then choose what to explain or practise next.*
+*The details stay with the fact in the map. Here, 12 ÷ 6 has six correct answers but is due for another review. Accuracy and review timing help you decide what to practise next.*
 
 ### Can Premium make a worksheet from my child's practice?
 
