@@ -58,7 +58,7 @@ The fluency map shows progress by fact. Progress views also show practice histor
 
 <img src="assets/math-builders-family-profiles.png" alt="Parent home screen with separate sample profiles for Leo and Maya, each with Start practice, View progress, Practice sheets, and Settings." width="820">
 
-*Each child has a separate learner profile. This example shows the parent controls for two sample learners. Available tools depend on the account plan.*
+*Each child has a separate learner profile. This example shows the parent controls for two sample learners. Free accounts include saved practice and basic stats. Premium adds detailed reports and personalised practice sheets.*
 
 Progress is most useful when viewed across several sessions. One good round does not prove lasting recall, and one difficult round does not erase earlier learning.
 
@@ -70,7 +70,7 @@ Yes. Teachers can use a short session as a bell-ringer, a station activity, or p
 
 *The class fluency map helps a teacher choose facts for review. The numbers shown are sample data, not product outcome claims.*
 
-The [teacher guide](https://mathbuilders.com/teachers) explains class setup, home cards, and the current free classroom offer. Math Builders supplements the teacher's curriculum; it does not replace lessons or establish district approval.
+A free teacher account includes one class for up to 30 learners, all six core fact packs, home cards, and basic progress reports. See the [teacher guide](https://mathbuilders.com/teachers) for setup steps. Math Builders supports the teacher's curriculum with focused fact practice.
 
 ## Can school practice continue at home?
 
@@ -96,38 +96,41 @@ Yes, it is another option for math fact practice. Consider Math Builders if you 
 
 Try a session with the child before choosing a tool. Look at whether they understand what to do, can stop comfortably, and will return for another short session. There is no single best app for every learner. See the [multiplication app comparison](https://mathbuilders.com/best-multiplication-app-for-kids) for options to explore.
 
-## What improvements are in progress for families?
+## How does Math Builders help parents encourage regular practice?
 
-**In development — reviewed November 1, 2026.** These improvements are work in progress, not a list of features available to every account today.
+The parent home shows what changed since the last visit, which facts need another review, and a nearby goal for each child. A parent can start the next practice session from that view.
 
-The family work focuses on making the next step easier to understand:
+- **Notice progress.** See new learning and recent practice without comparing reports by hand.
+- **Choose the next step.** Review facts that are due and work towards a small learning goal.
+- **Make room for breaks.** Pause for a family break, then return with a clear next step.
+- **Offer encouragement.** Leave a short note for the child to see when they practise.
+- **Celebrate steady effort.** Print a certificate that recognises practice across several weeks.
 
-- A short summary of what changed since the parent's last visit.
-- Clearer signs that some facts are ready for another review, with a direct way to start.
-- A nearby learning goal for each child.
-- A way to pause for a family break and return with an encouraging next step.
-- A short note from a parent that the child can see when they practise.
-- Printable certificates that celebrate practice across several weeks.
+These tools help parents support a routine that fits family life. A missed week does not reset an earned certificate level.
 
-The aim is to help a parent notice effort, offer encouragement, and choose a useful next session. A busy week should be something a family can return from comfortably.
+## How does Math Builders help teachers choose the next class activity?
 
-## What improvements are in progress for teachers?
+The class view summarises progress since the teacher's last visit. It highlights facts that need review and shows a nearby class goal. Teachers can use this information to choose a short warm-up or small-group activity.
 
-**In development — reviewed November 1, 2026.** The classroom work focuses on a clearer view of recent practice and what to do next:
+The practice overview accounts for school breaks. Printable consistency certificates recognise practice over time. Teachers can celebrate the class's effort and help learners return after a break.
 
-- A summary of class progress since the teacher's last visit.
-- Visual cues for facts that are ready for review.
-- A suggested nearby class goal.
-- A clearer practice overview that accounts for school breaks.
-- Printable certificates that recognise class practice over time.
+## Is Math Builders free, and how much does Premium cost?
 
-These changes are intended to help teachers plan a short warm-up and recognise progress. Details can change during development; no release date is promised here.
+Yes. Math Builders has free parent, teacher, and tutor accounts. All prices below are in US dollars.
 
-## Is Math Builders free?
+| Plan | Price | What it includes |
+| --- | --- | --- |
+| Free Parent | $0 | One child added by the parent, plus children connected through teacher home cards; six core fact packs, saved practice, and basic stats. |
+| Parent Premium | $11.99/month or $99/year | Additional parent-created profiles, combined and through-24 packs, full fluency maps, detailed reports, and personalised worksheets. |
+| Free Teacher | $0 | One class with up to 30 learners, six core fact packs, class sign-in, home cards, and basic reports. |
+| Teacher Personal | $49/year | Teacher Premium paid by the teacher, with more class capacity, full map detail, expanded reports, and personalised worksheets. |
+| School-Funded Classroom | $149/year | Teacher Premium for one teacher, paid by a school, PTA, or department. |
+| Free Tutor | $0 | One tutoring group with up to 30 learners, six core fact packs, group sign-in, home cards, and basic reports. |
+| Tutor Premium | $34.99/month, $199/year, or $499 every 3 years | More tutoring groups and roster capacity, combined and through-24 packs, full map detail, expanded reports, and personalised worksheets. |
 
-Math Builders offers free practice and paid plans. The current teacher page lists one free class for up to 30 learners, core fact packs, and basic reporting. Family and classroom plans have different limits and tools.
+Free accounts do not require a credit card. Parent Premium offers a seven-day free trial. After the trial, the chosen monthly or annual price applies. Cancel before the trial ends to avoid a charge. Parents who skip the trial and pay annually get 20% off the first year: $79.20, then $99/year. Subscriptions renew automatically and can be cancelled in Manage billing.
 
-See [current pricing](https://mathbuilders.com/pricing) for the terms available when you sign up. A sample session is a useful way to see how the app feels before you choose a plan.
+[Choose a plan](https://mathbuilders.com/pricing).
 
 ## Where can I find more help?
 

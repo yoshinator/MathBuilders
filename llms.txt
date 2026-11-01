@@ -6,7 +6,7 @@
 
 Math Builders uses saved answers and response times to schedule reviews for individual facts. A typical practice session takes 2 to 5 minutes. Learners practise facts; parents and teachers can view progress. It is a fluency supplement alongside instruction in mathematical concepts and problem-solving.
 
-Features include learner profiles, a fluency map, practice history, class links, and printable home cards. The standard classroom path does not require student email addresses. A parent signs in to connect to a school learner for home practice. Plan limits and available tools vary.
+Features include learner profiles, a fluency map, practice history, class links, and printable home cards. The standard classroom path does not require student email addresses. A parent signs in to connect to a school learner for home practice. Free parent accounts include one parent-created learner plus children connected through teacher home cards. Free teacher and tutor accounts include one class or group with up to 30 learners.
 
 ## Questions and answers
 
@@ -18,18 +18,24 @@ Begin with equal groups and known facts. Practise recalling a few answers, check
 
 No fixed mastery time or school result is promised. Progress records describe practice, and forecasts are estimates. Response time alone does not measure mathematical ability.
 
-### What is in development?
+### How does Math Builders support regular practice?
 
-As of November 1, 2026, family improvements include summaries of recent progress, review cues, nearby goals, support for breaks, parent encouragement notes, and consistency certificates. Classroom improvements include recent-progress summaries, review cues, nearby class goals, break-aware practice overviews, and consistency certificates. These are work in progress, not a release announcement or a list of features available to every account.
+Parents see recent progress, facts ready for review, and a nearby goal for each child. They can set a break, leave an encouragement note, and print consistency certificates. Teachers see recent class progress, review cues, nearby class goals, and a practice overview that accounts for school breaks. Class certificates recognise practice over time.
+
+### How much does Math Builders cost?
+
+Prices are in US dollars. Free parent, teacher, and tutor accounts cost $0 and include six core fact packs and basic progress reports. Parent Premium costs $11.99/month or $99/year. Teacher Personal costs $49/year. School-Funded Classroom costs $149/year for one teacher. Tutor Premium costs $34.99/month, $199/year, or $499 every 3 years.
+
+Free accounts require no credit card. Parent Premium offers a seven-day free trial, followed by the selected monthly or annual charge unless cancelled. Parents who skip the trial and pay annually pay $79.20 for the first year, then $99/year. Subscriptions renew automatically; cancel in Manage billing.
 
 ## Public references
 
-- [Product FAQ](https://github.com/yoshinator/MathBuilders/blob/main/README.md): Learning questions, product screenshots, home and classroom use, and work in progress.
+- [Product FAQ](https://github.com/yoshinator/MathBuilders/blob/main/README.md): Learning questions, product screenshots, home and classroom use, practice support, and prices.
 - [Detailed FAQ](https://github.com/yoshinator/MathBuilders/blob/main/docs/math-builders-faq.md): Setup, progress, home cards, printables, and learning expectations.
 - [Math Builders](https://mathbuilders.com): Product website and practice entry.
 - [Parent practice plan](https://mathbuilders.com/start-practice): Family starting point.
 - [Teacher guide](https://mathbuilders.com/teachers): Class setup and home practice.
-- [Pricing](https://mathbuilders.com/pricing): Current plans and terms.
+- [Pricing](https://mathbuilders.com/pricing): Plans, prices, and signup.
 - [Printables](https://mathbuilders.com/printables): Public paper resources.
 - [Privacy](https://mathbuilders.com/privacy): Published privacy information.
 

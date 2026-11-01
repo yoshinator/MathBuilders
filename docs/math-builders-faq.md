@@ -2,7 +2,7 @@
 
 Math Builders provides short practice sessions for multiplication, division, addition, and subtraction facts. This FAQ covers practical questions about using the product at home and at school.
 
-[Main product FAQ](../README.md) · [Open Math Builders](https://mathbuilders.com) · [Current plans](https://mathbuilders.com/pricing)
+[Main product FAQ](../README.md) · [Open Math Builders](https://mathbuilders.com) · [Plans and prices](https://mathbuilders.com/pricing)
 
 ## How can I help my child learn the harder times tables?
 
@@ -36,7 +36,7 @@ Math Builders does not promise mastery in a set number of days. Any progress for
 
 ## Can siblings use Math Builders?
 
-Yes. Family plans can support separate learner profiles. Each child can have their own settings and saved progress. Profile limits depend on the plan; check [current pricing](https://mathbuilders.com/pricing).
+Yes. Each child has separate settings and saved progress. A free parent account includes one child added by the parent, plus children connected through teacher home cards. Parent Premium adds more parent-created profiles and costs $11.99/month or $99/year.
 
 ## Can I use Math Builders with a homeschool curriculum or tutoring?
 
@@ -52,7 +52,7 @@ The teacher creates the class, adds learners, and shares its link or code. The t
 
 ## Does a teacher have to connect Google Classroom?
 
-No. A teacher can add names manually and use a class link. Google Classroom roster import is an optional setup path and can depend on school permissions. The [teacher guide](https://mathbuilders.com/teachers) explains the current options.
+No. A teacher can add names manually and use a class link. Google Classroom roster import is an optional setup path and can depend on school permissions. Use the [teacher setup guide](https://mathbuilders.com/teachers) to get started.
 
 ## How does a home card work?
 
@@ -64,7 +64,7 @@ A teacher prints a home card for a learner and gives it to the family. The paren
 
 ## Can we practise on paper?
 
-Yes. Math Builders has public printable resources. Some account tools can also create practice sheets from saved practice. Printed answers do not automatically update the app's progress records.
+Yes. Math Builders has public printable resources. Premium accounts can also create personalised practice sheets from saved practice, with answer keys. Printed answers do not automatically update the app's progress records.
 
 Use paper for spoken practice, drawings, or written work when a screen is not useful. Visit the [printable resources](https://mathbuilders.com/printables).
 
@@ -72,13 +72,27 @@ Use paper for spoken practice, drawings, or written work when a screen is not us
 
 Start again with a short session. The app uses saved practice to choose reviews. A break does not mean a child has lost everything they learned.
 
-Further improvements for family breaks, return visits, and encouraging next steps are in development. The [family update](../README.md#what-improvements-are-in-progress-for-families) and [teacher update](../README.md#what-improvements-are-in-progress-for-teachers) describe that work separately from current features.
+Parents and teachers can set a break to pause the practice overview. On return, progress summaries and nearby goals help them choose a useful next session. See [family practice support](../README.md#how-does-math-builders-help-parents-encourage-regular-practice) and [classroom practice support](../README.md#how-does-math-builders-help-teachers-choose-the-next-class-activity).
 
-## Are the new family and classroom progress features available now?
+## Can I encourage my child from the parent account?
 
-The progress summaries, nearby goals, break-aware overviews, parent notes, and consistency certificates described in the development sections are work in progress as of November 1, 2026. Their design and availability can change.
+Yes. Leave a short note for your child to see when they practise. The parent home also shows recent progress and the next goal, so you can recognise a specific effort. Printable consistency certificates celebrate practice across several weeks, with room for breaks.
 
-Existing practice, learner profiles, progress views, class links, and home cards are described separately in this FAQ. The development list is not a release announcement.
+## How much does Math Builders cost?
+
+All prices are in US dollars.
+
+- **Free Parent: $0.** One child added by the parent, plus children linked through teacher home cards.
+- **Parent Premium: $11.99/month or $99/year.** Additional parent-created profiles, all fact packs, detailed progress, and personalised worksheets.
+- **Free Teacher: $0.** One class with up to 30 learners.
+- **Teacher Personal: $49/year.** Teacher Premium paid by the teacher.
+- **School-Funded Classroom: $149/year.** Teacher Premium for one teacher, paid by a school, PTA, or department.
+- **Free Tutor: $0.** One tutoring group with up to 30 learners.
+- **Tutor Premium: $34.99/month, $199/year, or $499 every 3 years.** More groups and roster capacity, all fact packs, detailed progress, and personalised worksheets.
+
+All free accounts include six core fact packs and basic progress reports, with no credit card required. Parent Premium has a seven-day free trial; the selected plan is charged after the trial unless cancelled. Parents who skip the trial and pay annually pay $79.20 for the first year, then $99/year. Subscriptions renew automatically; cancel in Manage billing.
+
+[Choose a plan](https://mathbuilders.com/pricing).
 
 ## Where can a parent or school read about privacy?
 
