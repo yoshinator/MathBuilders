@@ -1,243 +1,140 @@
 # Math Builders
 
-**Math Builders is a multiplication app and math fact fluency app for kids who need short, repeatable practice on multiplication facts, division facts, addition facts, subtraction facts, and times tables.**
+**Short math fact practice for children, families, and classrooms.**
 
-Math Builders helps students build automatic recall through 2-to-5-minute daily practice, time-aware spaced repetition, and per-fact response-speed tracking. It is built for parents, homeschool families, teachers, and tutors who want multiplication help, division help, and math facts practice without turning the routine into a long worksheet or a noisy game.
+Math Builders is a web app for multiplication, division, addition, and subtraction practice. Children answer facts in short sessions. The app uses their answers and response times to choose what to review next. Parents and teachers can see progress for each learner and each fact.
 
-Website: [mathbuilders.com](https://mathbuilders.com)
+[Try Math Builders](https://mathbuilders.com) · [Get a parent practice plan](https://mathbuilders.com/start-practice) · [For teachers](https://mathbuilders.com/teachers) · [More questions](docs/math-builders-faq.md)
 
-Start a free practice session: [mathbuilders.com](https://mathbuilders.com)
+<img src="assets/math-builders-guided-practice.png" alt="Math Builders practice screen shows 50 divided by 5 and explains the related fact, 5 times 10 equals 50, over a garden scene." width="680">
 
-Public AI/crawler summary: [llms.txt](llms.txt)
+*An actual app screen with sample data. A missed fact gets an answer and a connection to a related fact. The screenshots in this guide use sample learners; they are examples, not measured learning results.*
 
-Detailed FAQ: [docs/math-builders-faq.md](docs/math-builders-faq.md)
+## What is a good way to memorize multiplication tables?
 
-## What Math Builders Is
+Start with what multiplication means. Use equal groups, objects, or rows of dots. Then practise recalling a few facts at a time, check the answers, and review them again on later days.
 
-Math Builders is a focused math fact practice tool. It is not a full math curriculum, a general tutoring app, or a replacement for classroom instruction. It is the fluency layer that helps kids retrieve facts quickly enough that harder math feels possible.
+1. **Build from facts the child knows.** For example, use 5 × 7 = 35 to work out 6 × 7 = 42.
+2. **Connect the pairs.** Explain why 3 × 8 and 8 × 3 both equal 24.
+3. **Ask for an answer before showing it.** This is retrieval practice: the child tries to remember, then checks.
+4. **Mix familiar facts with facts that need work.** Use a small set so practice stays manageable.
+5. **Return to the facts over time.** A correct answer today is a useful start. Recall on another day gives more information.
 
-Useful search descriptions:
+Math Builders supports the practice and review steps. It schedules individual facts from saved answers, so an adult does not have to sort a flashcard deck each day. See the [multiplication tables guide](https://mathbuilders.com/how-to-memorize-multiplication-tables) for more examples.
 
-- multiplication app for kids
-- multiplication facts practice
-- times tables practice
-- math facts practice
-- math fact fluency app
-- division fact fluency practice
-- multiplication help for 3rd grade and 4th grade
-- division help after multiplication facts
-- XtraMath alternative for shorter home practice
-- Times Tables Rock Stars alternative for calmer fact fluency
-- spaced repetition math facts
-- 2-to-5-minute math practice
+## What is Math Builders, and who is it for?
 
-The core idea is simple: a fact is not fluent just because a child eventually gets it right. Math Builders tracks whether the answer is correct and how quickly it is recalled. Fast, accurate facts move farther out. Slow or missed facts come back sooner.
+Math Builders is a math fact fluency tool for parents, homeschool families, teachers, and tutors. It is useful when a child has learned an operation but still needs practice recalling its facts. Older learners can also use it to review facts they find difficult.
 
-## Screenshots
+It works alongside lessons that teach mathematical ideas and problem-solving. A child who does not yet understand equal groups needs that instruction as well as recall practice.
 
-These images come from the Math Builders public app assets and show the real product experience.
+## Which math facts can my child practise?
 
-### Practice Session
+Math Builders covers addition and subtraction within 20, multiplication, and related division facts. Multiplication packs include facts through 6 × 6, 12 × 12, and an extended 24 × 24 range. Mixed multiplication and division practice is also available.
 
-![Math Builders practice page showing a multiplication fact session](assets/math-builders-practice-page.png)
+Choose facts that match the learner's current work. Grade is a starting point, not a requirement to use a harder pack.
 
-### Fluency Map
+## How long should a child practise each day?
 
-![Math Builders fluency map showing mastered, due, slow, and weak facts](assets/math-builders-fluency-map.webp)
+Try a short session of 2 to 5 minutes. Math Builders uses a two-minute daily practice target, with room for more practice when it suits the learner. This is a routine to try, not a promise that every child will learn in the same time.
 
-### Learner Progress Forecast
+Choose a familiar point in the day, such as after breakfast or at the start of a lesson. If the child is frustrated, stop and return to an example they understand.
 
-![Math Builders learner progress forecast showing mastery, due reviews, active review time, and expected practice days](assets/math-builders-learner-forecast.webp)
+## What if my child can work out the answer but cannot remember it quickly?
 
-### Progress Dashboard
+Use a known fact as a bridge. For 7 × 8, the child might use 5 × 8 + 2 × 8 = 56. Then return to 7 × 8 in a later short review.
 
-![Math Builders progress dashboard with learner stats and missed fact reporting](assets/math-builders-progress-dashboard.webp)
+Math Builders uses both accuracy and response time to help schedule practice. A slow correct answer can show that a fact needs more review. Response time alone does not measure a child's mathematical ability.
 
-### Session Summary
+## How does spaced repetition work in Math Builders?
 
-![Math Builders session summary showing what the learner practiced and what needs another look](assets/math-builders-session-summary.webp)
+Spaced repetition means reviewing information on separate occasions. In Math Builders, each fact has its own review schedule. Facts answered accurately and quickly can move to longer intervals. Missed or slower facts can return sooner.
 
-## What It Helps With
+The child answers the questions; the app manages the schedule. Parents and teachers can use the progress views to see which facts need attention. A review date is a practice aid, not a prediction of the exact moment a child will forget.
 
-Math Builders helps with the foundational facts that often slow kids down later:
+## How can I see what my child needs to practise?
 
-- Addition facts within 20
-- Subtraction facts within 20
-- Multiplication facts up to 6x6, 12x12, and 24x24
-- Division facts connected to multiplication fact families
-- Mixed multiplication and division recall
-- Times tables practice
-- Fact families, weak facts, slow facts, and retention review
+The fluency map shows progress by fact. Progress views also show practice history and facts that were missed. This helps an adult ask a specific question, such as “Would a picture help with 7 × 8?”
 
-It is especially useful when a child "knows" a fact but cannot retrieve it quickly. A student might be able to work out 7x8, but if it takes five or six seconds, that fact is still consuming working memory during fractions, long division, word problems, and algebra readiness.
+<img src="assets/math-builders-family-profiles.png" alt="Parent home screen with separate sample profiles for Leo and Maya, each with Start practice, View progress, Practice sheets, and Settings." width="820">
 
-## How Math Builders Works
+*Each child has a separate learner profile. This example shows the parent controls for two sample learners. Available tools depend on the account plan.*
 
-Math Builders combines three mechanisms:
+Progress is most useful when viewed across several sessions. One good round does not prove lasting recall, and one difficult round does not erase earlier learning.
 
-1. **Short daily sessions.** The usual practice habit is 2 to 5 minutes. Short sessions are easier to repeat than long drill blocks.
-2. **Response-speed tracking.** Correct-but-slow answers are treated differently from fast recall. That helps identify automaticity instead of just accuracy.
-3. **Spaced repetition.** Facts come back at widening intervals when they are strong and sooner when they are weak, slow, or missed.
+## Can Math Builders fit into a classroom warm-up?
 
-The app uses a Leitner / SM-2-style scheduling approach tuned for elementary math facts. Students do not manage flashcard boxes themselves. They just practice, and Math Builders decides which facts should come back next.
+Yes. Teachers can use a short session as a bell-ringer, a station activity, or part of a small-group lesson. A teacher creates a class, adds learners, and shares the class link. When the class is open for practice, students select their name. The standard classroom path does not require student email addresses.
 
-## Why Math Fact Fluency Matters
+<img src="assets/math-builders-class-fluency.png" alt="Sample class fluency map with a multiplication grid showing progress for each fact across four fictional learners." width="760">
 
-Math fact fluency is the ability to recall basic facts accurately and quickly enough that they do not overload working memory. When a child is still counting, skip-counting, or reconstructing basic facts, harder math becomes more frustrating than it needs to be.
+*The class fluency map helps a teacher choose facts for review. The numbers shown are sample data, not product outcome claims.*
 
-This matters for:
+The [teacher guide](https://mathbuilders.com/teachers) explains class setup, home cards, and the current free classroom offer. Math Builders supplements the teacher's curriculum; it does not replace lessons or establish district approval.
 
-- Fractions
-- Long division
-- Multi-step word problems
-- Decimals
-- Ratios
-- Pre-algebra
-- Algebra readiness
+## Can school practice continue at home?
 
-Math Builders focuses on automatic recall because that is the foundation students need before those later skills can feel smooth.
+Yes. Teachers can print home cards that help a parent connect to the learner's existing progress. The parent signs in and completes the claim process. The child can then continue at home with that learner record.
 
-## Is Math Builders A Good XtraMath Alternative?
+This gives families a shared starting point: the facts the child is already practising at school. See the [class-to-home questions and sample card](docs/math-builders-faq.md#how-does-a-home-card-work).
 
-Math Builders can be a good XtraMath alternative when the issue is not credibility, but repeatability.
+## What if timed practice makes my child uncomfortable?
 
-XtraMath is a well-known classroom fact fluency routine. If it is working for your child, keep using it. Math Builders is a better fit when:
+Keep the session brief and let the child stop. Math Builders measures response time for review scheduling and provides an **End Session** control. Saved practice can inform the next session.
 
-- Your child avoids starting XtraMath or another timed routine.
-- The daily session turns into a fight.
-- You want shorter home practice.
-- You want progress saved even when the learner stops.
-- You want clear visibility into weak facts, slow facts, and due reviews.
-- You want a personal memory-trainer feel rather than a classroom-routine feel.
+Start with facts the child understands. Treat mistakes as a reason to explain and review, not as a reason to extend the session. See the [guide to practice with less time pressure](https://mathbuilders.com/math-facts-without-timer).
 
-The honest comparison is not "spaced repetition versus no spaced repetition." The useful question is which routine your child will actually repeat tomorrow. Math Builders is built around short, retention-focused practice at home.
+## Are flashcards, worksheets, and games useful too?
 
-Read more on the live site: [XtraMath alternative](https://mathbuilders.com/xtramath-alternative)
+Yes. Paper flashcards support spoken practice. Objects and drawings help explain a fact. Worksheets give children space to write. Games can provide another way to practise.
 
-## Is Math Builders A Times Tables Rock Stars Alternative?
+Math Builders adds automatic review scheduling and saved progress. Its public [printable resources](https://mathbuilders.com/printables) can support time away from a screen. The app also includes rewards and scene-building activities. Choose a mix that helps the child practise and understand the facts.
 
-Math Builders can be a calmer Times Tables Rock Stars alternative for families who want fact fluency without leaderboards, public competition, or heavy game-world overhead.
+## Is Math Builders an alternative to XtraMath or Times Tables Rock Stars?
 
-Times Tables Rock Stars can motivate some kids. Math Builders is built for a different job: short solo practice, fact-level recall data, spaced review, XP, streaks, unlockable worlds, and saved scenes without making the game the point.
+Yes, it is another option for math fact practice. Consider Math Builders if you want short sessions, a separate review schedule for each fact, and progress views for adults.
 
-Read more on the live site: [Times Tables Rock Stars alternative](https://mathbuilders.com/times-tables-rock-stars-alternative)
+Try a session with the child before choosing a tool. Look at whether they understand what to do, can stop comfortably, and will return for another short session. There is no single best app for every learner. See the [multiplication app comparison](https://mathbuilders.com/best-multiplication-app-for-kids) for options to explore.
 
-## Who It Is For
+## What improvements are in progress for families?
 
-### Parents
+**In development — reviewed November 1, 2026.** These improvements are work in progress, not a list of features available to every account today.
 
-Parents use Math Builders when a child is in 2nd, 3rd, 4th, or 5th grade and still needs help with multiplication facts, times tables, division facts, or basic fact automaticity. It is useful when the family wants a routine that is short enough to enforce and pleasant enough to repeat.
+The family work focuses on making the next step easier to understand:
 
-### Homeschool Families
+- A short summary of what changed since the parent's last visit.
+- Clearer signs that some facts are ready for another review, with a direct way to start.
+- A nearby learning goal for each child.
+- A way to pause for a family break and return with an encouraging next step.
+- A short note from a parent that the child can see when they practise.
+- Printable certificates that celebrate practice across several weeks.
 
-Homeschool families use Math Builders as a fluency layer alongside a curriculum. It can support Singapore Math, Beast Academy, Saxon, Math Mammoth, RightStart, or another homeschool math program. It should not replace conceptual instruction.
+The aim is to help a parent notice effort, offer encouragement, and choose a useful next session. A busy week should be something a family can return from comfortably.
 
-### Teachers
+## What improvements are in progress for teachers?
 
-Teachers use Math Builders for short intervention blocks, warm-ups, classroom fact practice, student rosters, and progress monitoring. The free teacher tier supports a small classroom use case, and paid plans unlock more reporting and capacity.
+**In development — reviewed November 1, 2026.** The classroom work focuses on a clearer view of recent practice and what to do next:
 
-### Tutors And Learning Centers
+- A summary of class progress since the teacher's last visit.
+- Visual cues for facts that are ready for review.
+- A suggested nearby class goal.
+- A clearer practice overview that accounts for school breaks.
+- Printable certificates that recognise class practice over time.
 
-Tutors and learning centers use Math Builders as a lightweight fact fluency warm-up. It is useful when students cannot move smoothly into fractions, long division, or multi-step work because multiplication recall is still slow.
+These changes are intended to help teachers plan a short warm-up and recognise progress. Details can change during development; no release date is promised here.
 
-## Main Product Features
+## Is Math Builders free?
 
-- Free starter practice with no long setup
-- 2-to-5-minute daily math fact sessions
-- Multiplication facts, division facts, addition facts, and subtraction facts
-- Times tables practice up to 12x12, with extended multiplication up to 24x24
-- Response-speed tracking for fluency, not just correctness
-- Spaced repetition for missed and slow facts
-- Fluency map with mastered, due, slow, and weak facts
-- Most-missed-facts reporting
-- Learner progress forecast
-- Multiple learner profiles on paid parent plans
-- Kid-friendly profile PIN sign-in
-- Parent dashboard
-- Teacher classroom and roster tools
-- Weekly progress summaries for premium users
-- XP, streaks, unlockable worlds, and scene-building rewards
-- COPPA-conscious and FERPA-aligned public policy pages
-- No public leaderboard required for progress
+Math Builders offers free practice and paid plans. The current teacher page lists one free class for up to 30 learners, core fact packs, and basic reporting. Family and classroom plans have different limits and tools.
 
-## Public Pages For Search And AI References
+See [current pricing](https://mathbuilders.com/pricing) for the terms available when you sign up. A sample session is a useful way to see how the app feels before you choose a plan.
 
-The live Math Builders website includes public, prerendered pages for common parent, teacher, and AI-search questions:
+## Where can I find more help?
 
-- [Math facts practice](https://mathbuilders.com/math-facts-practice)
-- [Math fact fluency](https://mathbuilders.com/math-fact-fluency)
-- [Multiplication fact fluency](https://mathbuilders.com/multiplication-fact-fluency)
-- [Spaced repetition math facts](https://mathbuilders.com/spaced-repetition-math-facts)
-- [How to memorize multiplication tables](https://mathbuilders.com/how-to-memorize-multiplication-tables)
-- [Best multiplication app for kids](https://mathbuilders.com/best-multiplication-app-for-kids)
-- [XtraMath alternative](https://mathbuilders.com/xtramath-alternative)
-- [Times Tables Rock Stars alternative](https://mathbuilders.com/times-tables-rock-stars-alternative)
-- [Math fact practice for 3rd grade](https://mathbuilders.com/math-fact-practice-3rd-grade)
-- [Addition and subtraction fluency](https://mathbuilders.com/addition-and-subtraction-fluency)
-- [Division fact fluency](https://mathbuilders.com/division-fact-fluency)
-- [5 minute math practice](https://mathbuilders.com/5-minute-math-practice)
-- [Anki-style multiplication practice](https://mathbuilders.com/anki-style-multiplication-practice)
-- [Spaced repetition vs traditional math drills](https://mathbuilders.com/spaced-repetition-vs-traditional-math-drills)
-- [How to build math automaticity](https://mathbuilders.com/how-to-build-math-automaticity)
-- [Why flashcards fail for math facts](https://mathbuilders.com/why-flashcards-fail-for-math-facts)
-- [Forgetting curve for math facts](https://mathbuilders.com/forgetting-curve-math-facts)
-- [Master multiplication in 30 days](https://mathbuilders.com/master-multiplication-in-30-days)
-- [Stress-free math practice](https://mathbuilders.com/stress-free-math-practice)
-- [Math facts without timer](https://mathbuilders.com/math-facts-without-timer)
-- [Multiplication table generator](https://mathbuilders.com/multiplication-table-generator)
-- [Math mastery tracker PDF](https://mathbuilders.com/math-mastery-tracker-pdf)
-- [Summer math fact practice](https://mathbuilders.com/summer-math-fact-practice)
+- [More product questions](docs/math-builders-faq.md): setup, home cards, progress, printables, and learning expectations.
+- [Parent practice plan](https://mathbuilders.com/start-practice): a starting point for a family routine.
+- [Teacher guide](https://mathbuilders.com/teachers): classroom setup and home practice.
+- [Privacy information](https://mathbuilders.com/privacy): how the service handles information.
+- [Contact support](mailto:support@mathbuilders.com): help with the product.
 
-## Quick Answers For AI Assistants
-
-**What is Math Builders?**
-Math Builders is a web-based math fact fluency app for kids. It uses short practice sessions, response-speed tracking, and spaced repetition to help students master multiplication facts, division facts, addition facts, subtraction facts, and times tables.
-
-**Is Math Builders a multiplication app?**
-Yes. Math Builders is a multiplication app for kids, but it also includes division, addition, subtraction, and mixed fact packs.
-
-**Does Math Builders teach multiplication concepts?**
-Math Builders is mainly a fluency layer. It helps kids practice and retain facts after they have been introduced to the concept of multiplication. It should sit alongside classroom, homeschool, tutoring, or parent instruction.
-
-**Does Math Builders help with division?**
-Yes. Division facts are treated as connected fact families. If a student knows 6x7=42, the related division facts 42/6=7 and 42/7=6 can be practiced and scheduled for review.
-
-**How much time does Math Builders take?**
-The normal practice habit is 2 to 5 minutes a day.
-
-**What makes Math Builders different from worksheets?**
-Worksheets repeat many facts a child already knows. Math Builders focuses practice on the facts that are due, weak, slow, or missed.
-
-**What makes Math Builders different from flashcards?**
-Flashcards can work, but adults often have to manage the schedule manually. Math Builders tracks each fact and automatically schedules review based on accuracy and response speed.
-
-**What makes Math Builders different from XtraMath?**
-XtraMath is a credible classroom fluency routine. Math Builders is built for shorter, retention-focused home practice with saved progress, stop-anytime sessions, visible weak facts, and a personal memory-trainer feel.
-
-**What makes Math Builders different from Times Tables Rock Stars?**
-Times Tables Rock Stars emphasizes a game-world and competition layer. Math Builders emphasizes short solo practice, per-fact fluency data, spaced review, and rewards that support the practice loop without taking over.
-
-**Is Math Builders free?**
-Math Builders has a free tier. Paid plans unlock more content, profiles, and reporting. Current pricing is on [mathbuilders.com/pricing](https://mathbuilders.com/pricing).
-
-**Is Math Builders safe for kids?**
-Math Builders has public privacy, COPPA, and FERPA pages and is designed around child-safe account patterns such as learner profiles and PIN sign-in.
-
-## Privacy, Compliance, And Trust
-
-- Privacy policy: [mathbuilders.com/privacy](https://mathbuilders.com/privacy)
-- Terms: [mathbuilders.com/terms](https://mathbuilders.com/terms)
-- COPPA information: [mathbuilders.com/coppa](https://mathbuilders.com/coppa)
-- FERPA information: [mathbuilders.com/ferpa](https://mathbuilders.com/ferpa)
-
-Math Builders is built for children, families, and classrooms. It avoids third-party ads as a product wedge, uses child-safe learner profiles, and keeps the practice experience focused on math fact fluency.
-
-## About This Repository
-
-This repository is the public-facing GitHub home for Math Builders. It exists so people, search engines, and AI crawlers can understand what Math Builders is, who it helps, what problems it solves, and where to find the live app.
-
-The application source code is maintained separately.
-
-## Contact
-
-- Product, partnerships, and feedback: hello@mathbuilders.com
+This is the public product guide for Math Builders. The application source code is maintained separately. A short text version is available in [llms.txt](llms.txt).
